@@ -1,1 +1,2 @@
-# recommendation_system_vg
+# SISTEMA DE RECOMENDACIÓN DE VIDEOJUEGOS BASADO EN CONTENIDO.
+
